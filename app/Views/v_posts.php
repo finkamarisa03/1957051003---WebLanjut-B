@@ -1,4 +1,4 @@
-<div class="container mt-3">
+<div class="container mt-4">
     <div class="text-center">
         <h1>All Posts</h1>
     </div>
@@ -14,62 +14,62 @@
     </div>
     <div class="row mt-4 mb-4">
         
-        <div class="col-md-4 mb-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://source.unsplash.com/1600x900/?nature,water" class="card-img-top" alt="...">
+        <div class="col-md-4 mb-5">
+        <div class="card" style="width: 22rem;">
+            <img src="/assets/images/cad.jpeg" class="card-img-top" alt="...">
             <div class="card-body">
                 <a href="http://" class="text-decoration-none text-dark">
-                <h5 class="card-title">Nature</h5>
+                <h5 class="card-title">Regular Cadbury Delight</h5>
                 </a>
             </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://source.unsplash.com/1600x900/?flowers" class="card-img-top" alt="...">
+        <div class="col-md-4 mb-5">
+        <div class="card" style="width: 22rem;">
+            <img src="/assets/images/red.jpeg" class="card-img-top" alt="...">
             <div class="card-body">
                 <a href="http://" class="text-decoration-none text-dark">
-                <h5 class="card-title">Flowers</h5>
+                <h5 class="card-title">Regular Red Velvet</h5>
                 </a>
             </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://source.unsplash.com/1600x900/?books" class="card-img-top" alt="...">
+        <div class="col-md-4 mb-5">
+        <div class="card" style="width: 22rem;">
+            <img src="/assets/images/tira.jpeg" class="card-img-top" alt="...">
             <div class="card-body">
                 <a href="http://" class="text-decoration-none text-dark">
-                <h5 class="card-title">Books</h5>
+                <h5 class="card-title">Regular Tiramisu</h5>
                 </a>
             </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://source.unsplash.com/1600x900/?spring" class="card-img-top" alt="...">
+        <div class="col-md-4 mb-5">
+        <div class="card" style="width: 22rem;">
+            <img src="/assets/images/cadbury.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <a href="http://" class="text-decoration-none text-dark">
-                <h5 class="card-title">Spring Season</h5>
+                <h5 class="card-title">Small Cadbury Delight</h5>
                 </a>
             </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://source.unsplash.com/1600x900/?food" class="card-img-top" alt="...">
+        <div class="col-md-4 mb-5">
+        <div class="card" style="width: 22rem;">
+            <img src="/assets/images/redvelvet.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <a href="http://" class="text-decoration-none text-dark">
-                <h5 class="card-title">Food</h5>
+                <h5 class="card-title">Small Red Velvet</h5>
                 </a>
             </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
-        <div class="card" style="width: 18rem;">
-            <img src="https://source.unsplash.com/1600x900/?summer" class="card-img-top" alt="...">
+        <div class="col-md-4 mb-5">
+        <div class="card" style="width: 22rem;">
+            <img src="/assets/images/tiramisu.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <a href="http://" class="text-decoration-none text-dark">
-                <h5 class="card-title">Summer Season</h5>
+                <h5 class="card-title">Small Tiramisu</h5>
                 </a>
             </div>
             </div>
